@@ -32,7 +32,7 @@ const GlobalStyle = createGlobalStyle`
   }
 `
 
-export const Botao = styled.button`
+export const Bota = styled.button`
   border: 1px solid var(--cor-principal);
   background-color: var(--cor-secundaria);
   color: var(--cor-principal);
